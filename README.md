@@ -7,7 +7,7 @@
 ## 🚀 Sobre mí
 
 - 🧑‍💻 Actualmente estoy trabajando como programador **Backend**.
-- 🛠️ Tengo **19 años** y soy un apasionado de la programación y la tecnología.
+- 🛠️ Tengo **20 años** y soy un apasionado de la programación y la tecnología.
 - 🎯 Siempre busco aprender nuevas tecnologías y enfrentar desafíos interesantes.  
 
 ---
